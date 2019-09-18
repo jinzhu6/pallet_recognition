@@ -1,0 +1,2 @@
+modelLeafSize: 0.01
+targetLeafSize: 0.03

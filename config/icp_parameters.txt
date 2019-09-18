@@ -1,0 +1,4 @@
+maxCorrespondenceDistance: 0.04
+maxIterations: 10
+transformationEpsilon: 1e-12
+euclideanFitnessEpsilon: 0.02

@@ -1,2 +1,1 @@
-# pallet_recognition
-recognize pallet in the scene based on point cloud library.
+After compiling, using such format(./method2 modelread.txt scene.pcd) to run the program.
